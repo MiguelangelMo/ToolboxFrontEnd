@@ -8,7 +8,7 @@ Comando para el funcionamiento del sistema
 
 Esté comando corre la librerias y nodos utilizados en el sistema.
 
-### `npm run dev`
+### `npm start`
 
 Esté comando corre servicio de react (obligatorio para mayor optimización)
 
